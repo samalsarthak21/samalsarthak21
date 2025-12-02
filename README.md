@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Sarthak 👋  
+Aspiring Quant | Python | Statistics | Financial Engineering | Risk Analytics
 
-<!--
-**samalsarthak21/samalsarthak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end quantitative finance projects with a focus on:
+- 📈 Quantitative Trading Strategies  
+- 🧮 Portfolio Optimization & Risk  
+- ⚙️ Financial Engineering Models  
+- 🧠 Machine Learning for Finance  
+- 📊 Econometrics & Time-Series Modelling  
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
+- Learning SQL, Econometrics, Financial Engineering, ML  
+- Building strong quant projects for internship/full-time roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Skills  
+**Languages:** Python, SQL  
+**Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn, Statsmodels, SciPy  
+**Finance:** Options, Greeks, Risk Models, GARCH, Optimization  
+**Databases:** PostgreSQL, SQLite  
+
+### 📫 Connect With Me  
+LinkedIn: https://linkedin.com/in/sarthak-quant  
+Email: your-email-here
+
