@@ -20,5 +20,5 @@ I build end-to-end quantitative finance projects with a focus on:
 
 ### 📫 Connect With Me  
 LinkedIn: https://linkedin.com/in/sarthak-quant  
-Email: your-email-here
+Email: samalsarthak21@gmail.com
 
