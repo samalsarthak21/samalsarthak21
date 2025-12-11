@@ -1,24 +1,28 @@
-# Hi, I’m Sarthak 👋  
-Aspiring Quant | Python | Statistics | Financial Engineering | Risk Analytics
+# Hi, I'm Sarthak – Quantitative Finance & Data Science
 
-I build end-to-end quantitative finance projects with a focus on:
-- 📈 Quantitative Trading Strategies  
-- 🧮 Portfolio Optimization & Risk  
-- ⚙️ Financial Engineering Models  
-- 🧠 Machine Learning for Finance  
-- 📊 Econometrics & Time-Series Modelling  
+I’m a Physics PhD researcher (General Relativity & Cosmology, University of Delhi) transitioning into **Quantitative Finance**. I build models and tools at the intersection of:
 
-### 🚀 Currently Working On
-- Learning SQL, Econometrics, Financial Engineering, ML  
-- Building strong quant projects for internship/full-time roles  
+- **Time Series & Econometrics:** ARIMA, GARCH, volatility modelling
+- **Derivatives & Risk:** Options pricing, Greeks, VaR
+- **Trading Strategies:** Pairs trading, mean reversion
+- **Credit Risk & ML:** Early warning systems for default risk
 
-### 🧰 Tools & Skills  
-**Languages:** Python, SQL  
-**Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn, Statsmodels, SciPy  
-**Finance:** Options, Greeks, Risk Models, GARCH, Optimization  
-**Databases:** PostgreSQL, SQLite  
+### What I'm working on now
 
-### 📫 Connect With Me  
-LinkedIn: https://linkedin.com/in/sarthak-quant  
-Email: samalsarthak21@gmail.com
+-  **NIFTY Forecasting Dashboard** with ARIMA + GARCH
+-  **Options Greeks Calculator & Payoff Visualizer** (Black–Scholes + Streamlit)
+-  **Pairs Trading Strategy** using cointegration
+-  **Credit Risk Early Warning System** (ML-based)
+-  **Real-Time Portfolio Greeks & Risk Dashboard**
+
+### Core skills
+
+- **Programming:** Python (NumPy, Pandas, SciPy, scikit-learn, statsmodels), SQL
+- **Quant:** Time series, ARIMA/GARCH, stochastic processes, portfolio risk
+- **Tools:** Jupyter, Streamlit, Git, Linux
+
+### How to reach me
+
+- LinkedIn: `linkedin.com/in/sarthak-quant`
+- Email: `samalsarthak21@gmail.com`
 
