@@ -1,4 +1,4 @@
-# Hi, I'm Sarthak – Quantitative Finance & Data Science
+# Hi, I'm Sarthak – Quantitative Finance
 
 I’m a Physics PhD researcher (General Relativity & Cosmology, University of Delhi) transitioning into **Quantitative Finance**. I build models and tools at the intersection of:
 
@@ -19,7 +19,7 @@ I’m a Physics PhD researcher (General Relativity & Cosmology, University of De
 
 - **Programming:** Python (NumPy, Pandas, SciPy, scikit-learn, statsmodels), SQL
 - **Quant:** Time series, ARIMA/GARCH, stochastic processes, portfolio risk
-- **Tools:** Jupyter, Streamlit, Git, Linux
+- **Tools:** Jupyter, Streamlit, Git
 
 ### How to reach me
 
