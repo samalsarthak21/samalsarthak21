@@ -10,7 +10,7 @@ I’m a Physics PhD researcher (General Relativity & Cosmology, University of De
 ### What I'm working on now
 
 -  **NIFTY Forecasting Dashboard** with ARIMA + GARCH
--  **Options Greeks Calculator & Payoff Visualizer** (Black–Scholes + Streamlit)
+-  **Options Greeks Calculator & Payoff Visualizer** (Black–Scholes)
 -  **Pairs Trading Strategy** using cointegration
 -  **Credit Risk Early Warning System** (ML-based)
 -  **Real-Time Portfolio Greeks & Risk Dashboard**
@@ -19,7 +19,7 @@ I’m a Physics PhD researcher (General Relativity & Cosmology, University of De
 
 - **Programming:** Python (NumPy, Pandas, SciPy, scikit-learn, statsmodels), SQL
 - **Quant:** Time series, ARIMA/GARCH, stochastic processes, portfolio risk
-- **Tools:** Jupyter, Streamlit, Git
+- **Tools:** Jupyter, Git
 
 ### How to reach me
 
