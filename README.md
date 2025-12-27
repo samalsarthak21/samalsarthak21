@@ -12,7 +12,7 @@ Physics PhD researcher (General Relativity & Cosmology, University of Delhi) tra
 - **NIFTY 50 ARIMA+GARCH Forecasting Dashboard**  
   Forecasting pipeline on 10+ years of index data with ARIMA for returns and GARCH for volatility, including residual diagnostics and performance plots.  
   – Reduced test RMSE significantly vs naive baseline.  
-  – Repo: `[https://github.com/samalsarthak21/nifty-arima-garch-forecastingo]`
+  – Repo: `[https://github.com/samalsarthak21/nifty-arima-garch-forecasting]`
 
 - **Options Greeks Calculator & Payoff Visualizer (Black-Scholes)**  
   European option pricer with full Greeks (Delta, Gamma, Vega, Theta, Rho), payoff diagrams, and sensitivity analysis across moneyness and volatility.  
