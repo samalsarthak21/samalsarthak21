@@ -1,28 +1,34 @@
-# Hi, I'm Sarthak – Quantitative Finance
+# Sarthak Samal — Quantitative Finance Portfolio
 
-I’m a Physics PhD researcher (General Relativity & Cosmology, University of Delhi) transitioning into **Quantitative Finance**. I build models and tools at the intersection of:
+Physics PhD researcher (General Relativity & Cosmology, University of Delhi) transitioning into **quantitative finance**, focused on building end‑to‑end, backtested trading and risk models in Python.
 
-- **Time Series & Econometrics:** ARIMA, GARCH, volatility modelling
-- **Derivatives & Risk:** Options pricing, Greeks, VaR
-- **Trading Strategies:** Pairs trading, mean reversion
-- **Credit Risk & ML:** Early warning systems for default risk
+## Flagship projects
 
-### What I'm working on now
+- **Cointegration‑Based Pairs Trading (NIFTY 50)**  
+  Market‑neutral statistical arbitrage strategy on 30 liquid NIFTY 50 stocks using Engle–Granger cointegration, rolling hedge ratios, z‑score signals, and realistic transaction costs.  
+  – Backtested on 2018–2025 daily data with low drawdowns and stable Sharpe.  
+  – Repo: `[https://github.com/samalsarthak21/pairs-trading-nifty50-cointegration]`
 
--  **NIFTY Forecasting Dashboard** with ARIMA + GARCH
--  **Options Greeks Calculator & Payoff Visualizer** (Black-Scholes)
--  **Pairs Trading Strategy** using cointegration
--  **Credit Risk Early Warning System** (ML-based)
--  **Real-Time Portfolio Greeks & Risk Dashboard**
+- **NIFTY 50 ARIMA+GARCH Forecasting Dashboard**  
+  Forecasting pipeline on 10+ years of index data with ARIMA for returns and GARCH for volatility, including residual diagnostics and performance plots.  
+  – Reduced test RMSE significantly vs naive baseline.  
+  – Repo: `[https://github.com/samalsarthak21/nifty-arima-garch-forecastingo]`
 
-### Core skills
+- **Options Greeks Calculator & Payoff Visualizer (Black-Scholes)**  
+  European option pricer with full Greeks (Delta, Gamma, Vega, Theta, Rho), payoff diagrams, and sensitivity analysis across moneyness and volatility.  
+  – Built for intuition around risk exposures and hedging.  
+  – Repo: `[https://github.com/samalsarthak21/black-scholes-greeks-and-payoffs]`
 
-- **Programming:** Python (NumPy, Pandas, SciPy, scikit-learn, statsmodels), SQL
-- **Quant:** Time series, ARIMA/GARCH, stochastic processes, portfolio risk
-- **Tools:** Jupyter, Git
+## Core skills
 
-### How to reach me
+- **Programming:** Python (NumPy, pandas, SciPy, statsmodels, scikit‑learn, Matplotlib), SQL, Jupyter, Git  
+- **Quant & econometrics:** Time series (ARIMA, GARCH), cointegration, regression, classification, volatility modelling, risk metrics (VaR, CVaR)  
+- **Derivatives & markets:** Black–Scholes pricing, Greeks, European options, payoff modelling  
+- **Math & research:** Probability, statistics, stochastic processes, numerical methods, scientific computing
 
-- LinkedIn: `linkedin.com/in/sarthak-quant`
-- Email: `samalsarthak21@gmail.com`
+## Contact
+
+- LinkedIn: [linkedin.com/in/sarthak-quant](https://linkedin.com/in/sarthak-quant)  
+- Email: [samalsarthak21@gmail.com](mailto:samalsarthak21@gmail.com)
+
 
