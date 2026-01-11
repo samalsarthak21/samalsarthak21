@@ -5,7 +5,7 @@ Physics PhD researcher (General Relativity & Cosmology, University of Delhi) tra
 ## Flagship Projects
 
 - **Credit Risk Early Warning System (NIFTY 50)**  
-  Rule-based and ML-assisted early warning framework for monitoring credit and market risk across 50 NIFTY 50 equities. Combines 5 independent risk indicators—21-day volatility spikes, 252-day beta drift relative to the NIFTY index, drawdowns beyond 15%, 30-day return Z-score extremes (|Z| > 2.5), and Isolation Forest–based anomaly detection.  
+  Rule-based and ML-assisted early warning framework for monitoring credit and market risk across 50 NIFTY 50 equities. Combines 5 independent risk indicators: 21-day volatility spikes, 252-day beta drift relative to the NIFTY index, drawdowns beyond 15%, 30-day return Z-score extremes (|Z| > 2.5), and Isolation Forest–based anomaly detection.  
   – Automated email alerts triggered when ≥3 signals confirm elevated risk, reducing false positives compared to single-indicator monitoring.  
   – Repo: `[https://github.com/samalsarthak21/credit-risk-early-warning-system]`
 
